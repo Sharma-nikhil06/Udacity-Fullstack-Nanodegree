@@ -1,0 +1,68 @@
+.container{
+	border: 2px solid black;
+}
+
+.text-thin{
+	font-weight:120px;
+}
+
+.title-super{
+	font-size: 50px;
+	color: dark green;
+	font-weight: bold;
+	font-style: italic;
+	font-family: arial;
+}
+
+#img1{
+	margin-top: 30px ;
+	width: 100px;
+	height: auto;
+}
+
+#img2 {
+	width: 1200px;
+	border: 2px solid blue;
+	height: auto;
+	box-shadow: 7px 7px 10px black;
+}
+
+#img3 {
+	width: 350px;
+	height: auto;
+	border: 1px solid red;
+	box-shadow: 7px 7px 10px blue;
+}
+
+#img4 {
+	width: 350px;
+	height: auto;
+	border: 1px solid red;
+	box-shadow: 7px 7px 10px blue;
+}
+
+p{
+    color: green;
+    font-style: italic;
+	margin-top: 20px;
+}
+
+h2{
+	color: green;
+	font-style: italic;
+}
+
+h3{
+	color: dark green;
+	font-style: italic;
+}
+
+h4{
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+a{
+	color: green;
+}
